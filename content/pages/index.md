@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: SAPKA
-    subtitle: Brayancito bebecito.
+    subtitle: Brayancito bebecito.Asome
     actions:
       - label: Contact Me
         url: /contact
