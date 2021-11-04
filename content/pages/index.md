@@ -5,7 +5,7 @@ sections:
     title: SAPKA
     subtitle: Brayancito bebecito.                                     Asome
     actions:
-      - label: Contact Me
+      - label: Escribeme bb
         url: /contact
         style: primary
     image: images/hero.png
